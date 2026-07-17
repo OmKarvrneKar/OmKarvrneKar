@@ -1,15 +1,358 @@
-# 💫 About Me:
-🎯 I'm currently working on<br>AI-powered full-stack applications — including an Intelligent Invoice Fraud Detection platform (FastAPI + OCR + JWT) and a Finance Agent that uses AI to analyze bank statements and answer natural language finance questions.<br>🤝 I'm looking to collaborate on<br>Open-source AI/ML projects, especially ones involving computer vision, LLM-powered tools, or full-stack applications solving real-world problems.<br>🌱 I'm looking for help with<br>Scaling AI-integrated backend systems and deploying production-ready ML pipelines.<br>📚 I'm currently learning<br>Advanced NLP, LLM integration (RAG systems, AI agents), and scalable backend architecture with FastAPI and PostgreSQL.<br>💬 Ask me about<br>Computer Vision, Machine Learning, Full-Stack Development (React + Node/FastAPI), or Cybersecurity fundamentals.<br>⚡ Fun fact<br>I build systems that solve real problems — from detecting deepfakes to helping people understand their medical reports and finances using AI.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=OMKAR%20VERNEKAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-vernekar-400a562) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ErrorOmkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Products;Full-Stack+%2B+Applied+ML+Engineer;Healthcare+AI+%C2%B7+FinTech+AI+%C2%B7+DocIntel;Open+to+AI%2FML+%26+Backend+Internships" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=OmKarvrneKar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=OmKarvrneKar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmKarvrneKar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![CGPA](https://img.shields.io/badge/B.E.%20CGPA-7.89-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Diploma](https://img.shields.io/badge/Diploma%20CGPA-9.09-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
+[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=OmKarvrneKar&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/OmKarvrneKar?color=6A0DAD&style=for-the-badge&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/OmKarvrneKar?color=4B0082&style=for-the-badge&label=STARS)
+
+</div>
+
+---
+
+### 🟣 About Me
+
+```yaml
+engineer:
+  name: "Omkar Vernekar"
+  role: "Computer Science Undergraduate · AI/ML & Full-Stack Engineer"
+  focus:
+    - Designing and shipping production-grade AI-powered applications end-to-end
+    - Applied machine learning for healthcare, fintech, and document intelligence
+    - Backend systems engineering with a strong bias for security and reliability
+    - Product-minded engineering — from idea to deployed, user-facing software
+  philosophy: "Ship independently. Validate rigorously. Iterate relentlessly."
+```
+
+I'm a Computer Science undergraduate at **MVJ College of Engineering, Bangalore**, specializing in **AI/ML** and **full-stack development**. I independently design, build, and deploy complete AI-powered applications — from OCR-driven medical report translation to LLM-based fraud detection and personal finance intelligence — taking each from architecture through to live deployment on Vercel and Render.
+
+My engineering approach centers on **explainability, security, and real-world reliability**: confidence-weighted extraction pipelines, JWT-secured human-in-the-loop review systems, and audit-logged APIs rather than black-box demos.
+
+<table align="center">
+<tr>
+<td>
+
+**🎯 Open To**
+- AI / ML Engineering Internships
+- Backend Engineering Internships
+- Full-Stack Development Roles
+- Open Source Collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🟣 Tech Stack
+
+**Languages**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,c,html,css&theme=dark" />
+</p>
+
+**Frontend**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark" />
+</p>
+
+**Backend & Databases**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,postgres,mysql,sqlite&theme=dark" />
+</p>
+
+**Cloud, DevOps & Tooling**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman,vscode&theme=dark" />
+</p>
+
+---
+
+### 🟣 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Applied LLM Engineering** | ⭐⭐⭐⭐☆ | Google Gemini API integration for medical/financial text reasoning, transaction classification, and plain-language report generation |
+| **Computer Vision / OCR** | ⭐⭐⭐⭐☆ | Tesseract OCR pipelines, PyMuPDF document parsing, OpenCV-based face/frame analysis for deepfake detection |
+| **NLP** | ⭐⭐⭐⭐☆ | Multilingual text generation, LLM-based transaction categorization, natural-language financial querying |
+| **ML Fundamentals & Tooling** | ⭐⭐⭐☆☆ | TensorFlow, scikit-learn, NumPy, Pandas for data processing and anomaly-driven risk scoring |
+| **Explainable AI Systems** | ⭐⭐⭐⭐☆ | Confidence-weighted field extraction, rule-based anomaly scoring, human-in-the-loop review design |
+
+</div>
+
+---
+
+### 🟣 Featured Projects
+
+<details open>
+<summary><b>🏥 Medical Report Explainer</b></summary>
+<br/>
+
+Full-stack application that extracts text from uploaded medical reports (PDF/image) via OCR and uses Gemini AI to translate lab results into plain-language, multilingual explanations — deployed live on Vercel and Render.
+
+| Category | Detail |
+|---|---|
+| **Stack** | React · FastAPI · Google Gemini AI · Tesseract OCR · PyMuPDF · SQLite |
+| **Scale** | 6-language multilingual output pipeline (English, Hindi, Marathi, Kannada, Tamil, Telugu) |
+| **Performance** | Text-to-speech voice readout with historical report tracking |
+| **Security** | Server-side OCR processing with structured, sanitized report storage |
+| **Impact** | Makes complex lab results understandable to non-technical, non-English-first users |
+| **Repository** | [github.com/OmKarvrneKar](https://github.com/OmKarvrneKar) |
+
+Designed independently as a self-directed project to strengthen applied AI/ML and full-stack skills; output correctness validated across multiple personal test reports.
+
+</details>
+
+<details>
+<summary><b>🧾 Smart_Invoice — Intelligent Invoice Fraud Detection Platform</b></summary>
+<br/>
+
+AI-assisted invoice processing platform that combines confidence-weighted OCR extraction with rule-based and anomaly-driven fraud risk scoring for explainable, auditable review decisions.
+
+| Category | Detail |
+|---|---|
+| **Stack** | FastAPI · PostgreSQL · Tesseract OCR · JWT Authentication |
+| **Scale** | Validated across 20–35 test invoices |
+| **Performance** | 87% field extraction accuracy (vendor, date, amount) |
+| **Security** | JWT-authenticated access with full audit logging |
+| **Impact** | Duplicate detection and confidence metrics enable explainable, human-in-the-loop fraud review |
+| **Repository** | [github.com/OmKarvrneKar](https://github.com/OmKarvrneKar) |
+
+Built as a secure, scalable REST API service with a human-in-the-loop review layer, prioritizing explainability over black-box scoring.
+
+</details>
+
+<details>
+<summary><b>💰 finance_agent — AI Personal Finance Assistant</b></summary>
+<br/>
+
+Full-stack AI assistant that lets users upload bank statements and query their spending in natural language, with automated categorization and subscription detection.
+
+| Category | Detail |
+|---|---|
+| **Stack** | React · FastAPI · SQLAlchemy · Google Gemini AI · Pandas |
+| **Scale** | LLM-based classification pipeline across arbitrary bank statement formats |
+| **Performance** | Automated recurring-subscription detection with frequency and cost estimation |
+| **Security** | FastAPI + SQLite data layer with structured transaction storage |
+| **Impact** | Interactive Recharts spending dashboard turns raw statements into actionable insight |
+| **Repository** | [github.com/OmKarvrneKar](https://github.com/OmKarvrneKar) |
+
+Deployed live on Vercel (frontend) and Render (backend) as an end-to-end natural-language finance tool.
+
+</details>
+
+<details>
+<summary><b>🎭 Deepfake Detection & Auto-Watermarking System</b></summary>
+<br/>
+
+Backend pipeline built during a competitive hackathon to detect manipulated video content and automatically watermark flagged uploads.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python · OpenCV · Flask · ffmpeg |
+| **Scale** | Built in a team of 4 during Presidency College Hackathon |
+| **Performance** | Advanced from ~50 teams to the top 25 — finished 7th overall (top 14%) |
+| **Security** | Automated flagging and watermarking of manipulated content prior to distribution |
+| **Impact** | OpenCV-based face/frame analysis pipeline for real-time manipulation detection |
+| **Repository** | [github.com/OmKarvrneKar](https://github.com/OmKarvrneKar) |
+
+Delivered under a competitive two-round hackathon format, combining CV-based detection with an automated content-labeling pipeline.
+
+</details>
+
+---
+
+### 🟣 Experience
+
+<table>
+<tr>
+<td>
+
+**Full-Stack Development & Web Security Intern**
+**Softmusk Info Pvt. Ltd.**
+`Sep 2022 – Apr 2024`
+
+Completed three progressive internships totaling 844 hours, spanning Web Development, Python full-stack development, and MERN Stack & Web Security, culminating in applied security practices within a live company project environment.
+
+- Progressed across three sequential internship terms in a live production environment
+- Final term (640 hrs) focused on the MERN stack and applied web security practices
+- Delivered features and fixes within a real company codebase under production constraints
+
+`Web Development` `Python` `MERN Stack` `Web Security`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**AI/ML Virtual Intern**
+**CODEXINTERN**
+`Sep 2025 – Oct 2025`
+
+Completed a one-month virtual internship program focused on artificial intelligence and machine learning fundamentals and applications.
+
+- Studied core AI/ML fundamentals through a structured virtual curriculum
+- Applied ML concepts to guided project-based exercises
+
+`Artificial Intelligence` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🟣 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 **7th Place — Presidency College Hackathon** | Top 14% of ~50 teams; advanced through a competitive two-round format with a 4-member team |
+| 🎯 **87% Field Extraction Accuracy** | Achieved in Smart_Invoice's confidence-weighted OCR parsing across 20–35 test invoices |
+| 🌐 **4 Independently Deployed Applications** | Spanning healthcare AI, fintech AI, document intelligence, and computer vision |
+| 📚 **9.09 Diploma CGPA** | Maratha Mandal Polytechnic, Belagavi — Computer Science Engineering |
+
+</div>
+
+---
+
+### 🟣 Certifications
+
+<div align="center">
+
+**Database & Systems**
+
+[![DBMS](https://img.shields.io/badge/Database%20Management%20Systems-Fundamentals%20to%20Advanced-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
+**InfyspringBoard**
+
+[![Ethical Hacking](https://img.shields.io/badge/Applied%20Ethical%20Hacking-Cybersecurity-4B0082?style=for-the-badge&logo=hackaday&logoColor=white)](#)
+
+</div>
+
+---
+
+### 🟣 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/OmKarvrneKar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/OmKarvrneKar)
+[![HackerRank](https://img.shields.io/badge/HackerRank-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/OmKarvrneKar)
+[![CodeChef](https://img.shields.io/badge/CodeChef-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/OmKarvrneKar)
+
+<sub>Update handles above to match your actual coding-profile usernames.</sub>
+
+</div>
+
+---
+
+### 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OmKarvrneKar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmKarvrneKar&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=A855F7&fire=9370DB&currStreakLabel=A855F7" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKarvrneKar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="49%" />
+
+</div>
+
+---
+
+### 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmKarvrneKar&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+### 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmKarvrneKar&theme=react-dark&bg_color=0D1117&color=A855F7&line=8A2BE2&point=9370DB&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+### 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/OmKarvrneKar/OmKarvrneKar/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+### 🟣 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced system design for AI-backed services
+    - Production-grade LLM application architecture
+  building:
+    - Expanding Smart_Invoice with real-time anomaly detection
+    - Refining multilingual pipelines for Medical Report Explainer
+  exploring:
+    - Retrieval-augmented generation for domain-specific assistants
+    - Scalable backend security patterns
+  open_to:
+    - AI/ML Engineering Internships
+    - Backend Engineering Internships
+```
+
+---
+
+### 🟣 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/omkarvernekar07%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/omkar--vernekar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
+[![GitHub](https://img.shields.io/badge/OmKarvrneKar-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Independently designed, rigorously validated, deployed to production — that's the standard."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+</div>
