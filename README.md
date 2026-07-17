@@ -14,8 +14,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
+[![X](https://img.shields.io/badge/X-4B0082?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErrorOmkar)
+[![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
 
 <br/>
 
@@ -49,6 +50,26 @@ My engineering approach centers on **explainability, security, and real-world re
 <tr>
 <td>
 
+🎯 **Currently working on** — AI-powered full-stack applications: an intelligent invoice fraud detection platform (FastAPI + OCR + JWT) and a finance agent that analyzes bank statements and answers natural-language finance questions.
+
+🤝 **Looking to collaborate on** — open-source AI/ML projects, especially those involving computer vision, LLM-powered tools, or full-stack applications solving real-world problems.
+
+🌱 **Looking for help with** — scaling AI-integrated backend systems and deploying production-ready ML pipelines.
+
+📚 **Currently learning** — advanced NLP, LLM integration (RAG systems, AI agents), and scalable backend architecture with FastAPI and PostgreSQL.
+
+💬 **Ask me about** — computer vision, machine learning, full-stack development (React + Node/FastAPI), or cybersecurity fundamentals.
+
+⚡ **Fun fact** — I build systems that solve real problems, from detecting deepfakes to helping people understand their medical reports and finances using AI.
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td>
+
 **🎯 Open To**
 - AI / ML Engineering Internships
 - Backend Engineering Internships
@@ -72,20 +93,24 @@ My engineering approach centers on **explainability, security, and real-world re
 **Frontend**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" />
 </p>
 
 **Backend & Databases**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,postgres,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,postgres,mysql,sqlite,mongodb,supabase&theme=dark" />
 </p>
 
 **Cloud, DevOps & Tooling**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman,vscode,sketch,canva&theme=dark" />
 </p>
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)](#)
 
 ---
 
@@ -141,7 +166,7 @@ AI-assisted invoice processing platform that combines confidence-weighted OCR ex
 | **Impact** | Duplicate detection and confidence metrics enable explainable, human-in-the-loop fraud review |
 | **Repository** | [github.com/OmKarvrneKar](https://github.com/OmKarvrneKar) |
 
-Built as a secure, scalable REST API service with a human-in-the-loop review layer, prioritizing explainability over black-box scoring.
+Built as a secure, scalable REST API service with a human-in-the-loop review layer, prioritizing explainability over black-box scoring. Independently designed and built as a solo project.
 
 </details>
 
@@ -160,7 +185,7 @@ Full-stack AI assistant that lets users upload bank statements and query their s
 | **Impact** | Interactive Recharts spending dashboard turns raw statements into actionable insight |
 | **Repository** | [github.com/OmKarvrneKar](https://github.com/OmKarvrneKar) |
 
-Deployed live on Vercel (frontend) and Render (backend) as an end-to-end natural-language finance tool.
+Deployed live on Vercel (frontend) and Render (backend) as an end-to-end natural-language finance tool. Independently designed and built as a solo project.
 
 </details>
 
@@ -197,9 +222,9 @@ Delivered under a competitive two-round hackathon format, combining CV-based det
 
 Completed three progressive internships totaling 844 hours, spanning Web Development, Python full-stack development, and MERN Stack & Web Security, culminating in applied security practices within a live company project environment.
 
-- Progressed across three sequential internship terms in a live production environment
-- Final term (640 hrs) focused on the MERN stack and applied web security practices
-- Delivered features and fixes within a real company codebase under production constraints
+- **Sep – Oct 2022** — Web Development (54 hrs)
+- **Mar – Apr 2023** — Python Full-Stack Development (150 hrs)
+- **Jan – Apr 2024** — MERN Stack & Web Security (640 hrs) — applied security practices in a live production codebase
 
 `Web Development` `Python` `MERN Stack` `Web Security`
 
@@ -275,12 +300,12 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OmKarvrneKar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmKarvrneKar&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=A855F7&fire=9370DB&currStreakLabel=A855F7" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=OmKarvrneKar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=C9D1D9&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=OmKarvrneKar&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=A855F7&fire=9370DB&currStreakLabel=A855F7" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKarvrneKar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OmKarvrneKar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&include_all_commits=true" width="49%" />
 
 </div>
 
@@ -342,7 +367,8 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/omkarvernekar07%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/omkar--vernekar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
-[![GitHub](https://img.shields.io/badge/OmKarvrneKar-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
+[![X](https://img.shields.io/badge/@ErrorOmkar-4B0082?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErrorOmkar)
+[![GitHub](https://img.shields.io/badge/OmKarvrneKar-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
 
 </div>
