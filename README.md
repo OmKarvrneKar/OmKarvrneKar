@@ -12,11 +12,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
-[![X](https://img.shields.io/badge/X-4B0082?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErrorOmkar)
-[![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
+[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
 
 <br/>
 
@@ -28,7 +27,7 @@
 
 ---
 
-### 🟣 About Me
+### About
 
 ```yaml
 engineer:
@@ -50,17 +49,15 @@ My engineering approach centers on **explainability, security, and real-world re
 <tr>
 <td>
 
-🎯 **Currently working on** — AI-powered full-stack applications: an intelligent invoice fraud detection platform (FastAPI + OCR + JWT) and a finance agent that analyzes bank statements and answers natural-language finance questions.
+**Currently working on** — an intelligent invoice fraud detection platform (FastAPI + OCR + JWT) and a finance agent that analyzes bank statements and answers natural-language finance questions.
 
-🤝 **Looking to collaborate on** — open-source AI/ML projects, especially those involving computer vision, LLM-powered tools, or full-stack applications solving real-world problems.
+**Looking to collaborate on** — open-source AI/ML projects, especially those involving computer vision, LLM-powered tools, or full-stack applications solving real-world problems.
 
-🌱 **Looking for help with** — scaling AI-integrated backend systems and deploying production-ready ML pipelines.
+**Looking for help with** — scaling AI-integrated backend systems and deploying production-ready ML pipelines.
 
-📚 **Currently learning** — advanced NLP, LLM integration (RAG systems, AI agents), and scalable backend architecture with FastAPI and PostgreSQL.
+**Currently learning** — advanced NLP, LLM integration (RAG systems, AI agents), and scalable backend architecture with FastAPI and PostgreSQL.
 
-💬 **Ask me about** — computer vision, machine learning, full-stack development (React + Node/FastAPI), or cybersecurity fundamentals.
-
-⚡ **Fun fact** — I build systems that solve real problems, from detecting deepfakes to helping people understand their medical reports and finances using AI.
+**Ask me about** — computer vision, machine learning, full-stack development (React + Node/FastAPI), or cybersecurity fundamentals.
 
 </td>
 </tr>
@@ -70,7 +67,7 @@ My engineering approach centers on **explainability, security, and real-world re
 <tr>
 <td>
 
-**🎯 Open To**
+**Open To**
 - AI / ML Engineering Internships
 - Backend Engineering Internships
 - Full-Stack Development Roles
@@ -82,7 +79,7 @@ My engineering approach centers on **explainability, security, and real-world re
 
 ---
 
-### 🟣 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -114,7 +111,7 @@ My engineering approach centers on **explainability, security, and real-world re
 
 ---
 
-### 🟣 AI / ML Expertise
+### AI / ML Expertise
 
 <div align="center">
 
@@ -130,10 +127,10 @@ My engineering approach centers on **explainability, security, and real-world re
 
 ---
 
-### 🟣 Featured Projects
+### Featured Projects
 
 <details open>
-<summary><b>🏥 Medical Report Explainer</b></summary>
+<summary><b>Medical Report Explainer</b></summary>
 <br/>
 
 Full-stack application that extracts text from uploaded medical reports (PDF/image) via OCR and uses Gemini AI to translate lab results into plain-language, multilingual explanations — deployed live on Vercel and Render.
@@ -152,7 +149,7 @@ Designed independently as a self-directed project to strengthen applied AI/ML an
 </details>
 
 <details>
-<summary><b>🧾 Smart_Invoice — Intelligent Invoice Fraud Detection Platform</b></summary>
+<summary><b>Smart_Invoice — Intelligent Invoice Fraud Detection Platform</b></summary>
 <br/>
 
 AI-assisted invoice processing platform that combines confidence-weighted OCR extraction with rule-based and anomaly-driven fraud risk scoring for explainable, auditable review decisions.
@@ -171,7 +168,7 @@ Built as a secure, scalable REST API service with a human-in-the-loop review lay
 </details>
 
 <details>
-<summary><b>💰 finance_agent — AI Personal Finance Assistant</b></summary>
+<summary><b>finance_agent — AI Personal Finance Assistant</b></summary>
 <br/>
 
 Full-stack AI assistant that lets users upload bank statements and query their spending in natural language, with automated categorization and subscription detection.
@@ -190,7 +187,7 @@ Deployed live on Vercel (frontend) and Render (backend) as an end-to-end natural
 </details>
 
 <details>
-<summary><b>🎭 Deepfake Detection & Auto-Watermarking System</b></summary>
+<summary><b>Deepfake Detection & Auto-Watermarking System</b></summary>
 <br/>
 
 Backend pipeline built during a competitive hackathon to detect manipulated video content and automatically watermark flagged uploads.
@@ -210,7 +207,7 @@ Delivered under a competitive two-round hackathon format, combining CV-based det
 
 ---
 
-### 🟣 Experience
+### Experience
 
 <table>
 <tr>
@@ -250,22 +247,22 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### 🟣 Achievements
+### Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🏆 **7th Place — Presidency College Hackathon** | Top 14% of ~50 teams; advanced through a competitive two-round format with a 4-member team |
-| 🎯 **87% Field Extraction Accuracy** | Achieved in Smart_Invoice's confidence-weighted OCR parsing across 20–35 test invoices |
-| 🌐 **4 Independently Deployed Applications** | Spanning healthcare AI, fintech AI, document intelligence, and computer vision |
-| 📚 **9.09 Diploma CGPA** | Maratha Mandal Polytechnic, Belagavi — Computer Science Engineering |
+| **7th Place — Presidency College Hackathon** | Top 14% of ~50 teams; advanced through a competitive two-round format with a 4-member team |
+| **87% Field Extraction Accuracy** | Achieved in Smart_Invoice's confidence-weighted OCR parsing across 20–35 test invoices |
+| **4 Independently Deployed Applications** | Spanning healthcare AI, fintech AI, document intelligence, and computer vision |
+| **9.09 Diploma CGPA** | Maratha Mandal Polytechnic, Belagavi — Computer Science Engineering |
 
 </div>
 
 ---
 
-### 🟣 Certifications
+### Certifications
 
 <div align="center">
 
@@ -281,22 +278,22 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### 🟣 Coding Profiles
+### Coding Profiles
+
+> Replace `your-username` below with your actual handle on each platform — these are placeholders, not live links.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/OmKarvrneKar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/OmKarvrneKar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/OmKarvrneKar)
-[![CodeChef](https://img.shields.io/badge/CodeChef-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/OmKarvrneKar)
-
-<sub>Update handles above to match your actual coding-profile usernames.</sub>
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--username-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--username-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-your--username-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-your--username-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)
 
 </div>
 
 ---
 
-### 🟣 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -311,7 +308,7 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### 🟣 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -321,7 +318,7 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### 🟣 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -331,7 +328,7 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### 🟣 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -339,9 +336,11 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 </div>
 
+> Requires the `platane/snk` GitHub Action configured on this repository's workflow to render.
+
 ---
 
-### 🟣 Current Focus
+### Current Focus
 
 ```yaml
 current_focus:
@@ -361,15 +360,14 @@ current_focus:
 
 ---
 
-### 🟣 Connect
+### Connect
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/omkarvernekar07%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/omkar--vernekar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
-[![X](https://img.shields.io/badge/@ErrorOmkar-4B0082?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ErrorOmkar)
 [![GitHub](https://img.shields.io/badge/OmKarvrneKar-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
 
 </div>
 
