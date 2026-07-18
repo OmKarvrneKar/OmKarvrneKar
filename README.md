@@ -6,22 +6,10 @@
 
 <br/>
 
-[![CGPA](https://img.shields.io/badge/B.E.%20CGPA-7.89-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Diploma](https://img.shields.io/badge/Diploma%20CGPA-9.09-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://omkarvrnekar.github.io/PORTFOLIO-WEBSITE/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
 [![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=OmKarvrneKar&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/OmKarvrneKar?color=6A0DAD&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/OmKarvrneKar?color=4B0082&style=for-the-badge&label=STARS)
 
 </div>
 
@@ -278,21 +266,6 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### Coding Profiles
-
-> Replace `your-username` below with your actual handle on each platform — these are placeholders, not live links.
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--username-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--username-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--username-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--username-9370DB?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)
-
-</div>
-
----
-
 ### GitHub Analytics
 
 <div align="center">
@@ -308,16 +281,6 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmKarvrneKar&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
 ### Contribution Activity
 
 <div align="center">
@@ -325,18 +288,6 @@ Completed a one-month virtual internship program focused on artificial intellige
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmKarvrneKar&theme=react-dark&bg_color=0D1117&color=A855F7&line=8A2BE2&point=9370DB&hide_border=true" width="100%" />
 
 </div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/OmKarvrneKar/OmKarvrneKar/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> Requires the `platane/snk` GitHub Action configured on this repository's workflow to render.
 
 ---
 
@@ -367,7 +318,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/omkarvernekar07%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/omkar--vernekar-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-vernekar-400a56282)
 [![GitHub](https://img.shields.io/badge/OmKarvrneKar-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmKarvrneKar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/OmKarvrneKar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://omkarvrnekar.github.io/PORTFOLIO-WEBSITE/)
 
 </div>
 
