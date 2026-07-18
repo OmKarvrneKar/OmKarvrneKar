@@ -37,24 +37,6 @@ My engineering approach centers on **explainability, security, and real-world re
 <tr>
 <td>
 
-**Currently working on** — an intelligent invoice fraud detection platform (FastAPI + OCR + JWT) and a finance agent that analyzes bank statements and answers natural-language finance questions.
-
-**Looking to collaborate on** — open-source AI/ML projects, especially those involving computer vision, LLM-powered tools, or full-stack applications solving real-world problems.
-
-**Looking for help with** — scaling AI-integrated backend systems and deploying production-ready ML pipelines.
-
-**Currently learning** — advanced NLP, LLM integration (RAG systems, AI agents), and scalable backend architecture with FastAPI and PostgreSQL.
-
-**Ask me about** — computer vision, machine learning, full-stack development (React + Node/FastAPI), or cybersecurity fundamentals.
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td>
-
 **Open To**
 - AI / ML Engineering Internships
 - Backend Engineering Internships
@@ -96,22 +78,6 @@ My engineering approach centers on **explainability, security, and real-world re
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)](#)
-
----
-
-### AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Applied LLM Engineering** | ⭐⭐⭐⭐☆ | Google Gemini API integration for medical/financial text reasoning, transaction classification, and plain-language report generation |
-| **Computer Vision / OCR** | ⭐⭐⭐⭐☆ | Tesseract OCR pipelines, PyMuPDF document parsing, OpenCV-based face/frame analysis for deepfake detection |
-| **NLP** | ⭐⭐⭐⭐☆ | Multilingual text generation, LLM-based transaction categorization, natural-language financial querying |
-| **ML Fundamentals & Tooling** | ⭐⭐⭐☆☆ | TensorFlow, scikit-learn, NumPy, Pandas for data processing and anomaly-driven risk scoring |
-| **Explainable AI Systems** | ⭐⭐⭐⭐☆ | Confidence-weighted field extraction, rule-based anomaly scoring, human-in-the-loop review design |
-
-</div>
 
 ---
 
@@ -235,37 +201,6 @@ Completed a one-month virtual internship program focused on artificial intellige
 
 ---
 
-### Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **7th Place — Presidency College Hackathon** | Top 14% of ~50 teams; advanced through a competitive two-round format with a 4-member team |
-| **87% Field Extraction Accuracy** | Achieved in Smart_Invoice's confidence-weighted OCR parsing across 20–35 test invoices |
-| **4 Independently Deployed Applications** | Spanning healthcare AI, fintech AI, document intelligence, and computer vision |
-| **9.09 Diploma CGPA** | Maratha Mandal Polytechnic, Belagavi — Computer Science Engineering |
-
-</div>
-
----
-
-### Certifications
-
-<div align="center">
-
-**Database & Systems**
-
-[![DBMS](https://img.shields.io/badge/Database%20Management%20Systems-Fundamentals%20to%20Advanced-6A0DAD?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-
-**InfyspringBoard**
-
-[![Ethical Hacking](https://img.shields.io/badge/Applied%20Ethical%20Hacking-Cybersecurity-4B0082?style=for-the-badge&logo=hackaday&logoColor=white)](#)
-
-</div>
-
----
-
 ### GitHub Analytics
 
 <div align="center">
@@ -288,26 +223,6 @@ Completed a one-month virtual internship program focused on artificial intellige
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmKarvrneKar&theme=react-dark&bg_color=0D1117&color=A855F7&line=8A2BE2&point=9370DB&hide_border=true" width="100%" />
 
 </div>
-
----
-
-### Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced system design for AI-backed services
-    - Production-grade LLM application architecture
-  building:
-    - Expanding Smart_Invoice with real-time anomaly detection
-    - Refining multilingual pipelines for Medical Report Explainer
-  exploring:
-    - Retrieval-augmented generation for domain-specific assistants
-    - Scalable backend security patterns
-  open_to:
-    - AI/ML Engineering Internships
-    - Backend Engineering Internships
-```
 
 ---
 
