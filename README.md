@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarvernekar07@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-9370DB?style=for-the-badge&logo=readme&logoColor=white)](#)
 
-**📍 Bangalore, India &nbsp;·&nbsp; 🎓 B.E. CSE, MVJ College of Engineering &nbsp;·&nbsp; 🟢 Open to internships**
+**📍 Bangalore, India &nbsp;·&nbsp; 🎓 B.E. CSE, MVJ College of Engineering &nbsp;·&nbsp; **
 
 </div>
 
